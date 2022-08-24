@@ -4,8 +4,8 @@ import java.io.IOException;
 
 final class ClockMain {
 
-	public static void main(String[] args) throws IOException {
-		//this project is about building a watch for the company called "Ó‰ ‰˘Ú‰",
+	public static void main(String[] args)  {
+		//this project is about building a watch for the company called "√Æ√§ √§√π√≤√§",
 		//i builded it with the help of Observer that is type of design pattern.
 		//the package contain 5 classes and one text file
 
